@@ -22,7 +22,7 @@ I only started doing this in August 2008 so it's not complete. Please [send me](
 - [Klepshydra] - Mac widget for encrypting messages (added 7/9/2009)
 - [Joomla Encryption Configuration] - a Joomla extension for encrypting passwords and other data in your component (added 5/6/2010)
 
-The project site: [http://www.tero.co.uk/des/usage.php](http://www.tero.co.uk/des)
+The project site: [http://www.tero.co.uk/des](http://www.tero.co.uk/des)
 
 [Encryptadoro]: http://www.apple.com/downloads/dashboard/networking_security/encryptadoro.html
 [Omerta]: http://midsummernightsdream.de/omerta/index_e.html
