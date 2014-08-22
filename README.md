@@ -1,3 +1,4 @@
+
 des
 ===
 
@@ -14,14 +15,18 @@ The Javascript version of DES is based on a C version written and copyrighted by
 # Usage
 I only started doing this in August 2008 so it's not complete. Please [send me](http://www.tero.co.uk/home/contact.php) any other uses you find.
 
-Encryptadoro - a widget for the Mac OS X dashboard for encrypting passwords
-Omerta - for encrypting and decrypting messages
-[DES Password Pro] - for creating multiple user Javascript login forms
-[e-Will] - a safe way to send messages to friends in case something happens to you (added 31/8/2008)
-Klepshydra - Mac widget for encrypting messages (added 7/9/2009)
-Joomla Encryption Configuration - a Joomla extension for encrypting passwords and other data in your component (added 5/6/2010)
+- [Encryptadoro] - a widget for the Mac OS X dashboard for encrypting passwords
+- [Omerta] - for encrypting and decrypting messages
+- [DES Password Pro] - for creating multiple user Javascript login forms
+- [e-Will] - a safe way to send messages to friends in case something happens to you (added 31/8/2008)
+- [Klepshydra] - Mac widget for encrypting messages (added 7/9/2009)
+- [Joomla Encryption Configuration] - a Joomla extension for encrypting passwords and other data in your component (added 5/6/2010)
 
 The project site: [http://www.tero.co.uk/des/usage.php](http://www.tero.co.uk/des/usage.php)
 
+[Encryptadoro]: http://www.apple.com/downloads/dashboard/networking_security/encryptadoro.html
+[Omerta]: http://midsummernightsdream.de/omerta/index_e.html
 [DES Password Pro]: http://www.rustyspigot.com/webmasters/DESPasswordPro/
 [e-Will]: http://e-will.appspot.com/
+[Klepshydra]: http://klepshydra.blogspot.com/
+[Joomla Encryption Configuration]: http://www.ratmilwebsolutions.com/downloads/encryption-configuration.html
