@@ -33,17 +33,17 @@ The project site: [http://www.tero.co.uk/des](http://www.tero.co.uk/des)
 
 	des (string key, string message, boolean encrypt, [integer mode, string iv, integer padding])
 
-- key 
-	The des function accepts an 8 character string as the key (this is 64 bits, but the algorithm only uses 56) for normal DES or a 24 character string for triple DES, 
-- message
-	A message string, 
-- encrypt
+- key  
+The des function accepts an 8 character string as the key (this is 64 bits, but the algorithm only uses 56) for normal DES or a 24 character string for triple DES, 
+- message	
+	A message string
+- encrypt	
 	A boolean to say whether the data should be encrypted or decrypted 
-- mode
-	An optional mode (0 for ECB and 1 for CBC, ECB is the default), 
-- iv
-	An optional 8 character string input vector (not used in ECB mode), 
-- padding
+- mode	
+	An optional mode (0 for ECB and 1 for CBC, ECB is the default)
+- iv	
+	An optional 8 character string input vector (not used in ECB mode)
+- padding	
 	And the type of padding (0 for null or zero bytes, 1 for PKCS7, 2 for spaces and 3 for no padding at all). 
 It returns the cipher text as a string.
 
